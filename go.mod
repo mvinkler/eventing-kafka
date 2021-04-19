@@ -34,7 +34,7 @@ require (
 	k8s.io/utils v0.0.0-20200603063816-c1c6865ac451
 	knative.dev/eventing v0.19.0
 	knative.dev/hack v0.0.0-20201103151104-3d5abc3a0075
-	knative.dev/pkg v0.0.0-20201103163404-5514ab0c1fdf
+	knative.dev/pkg v0.0.0-20201215150143-89a9cc3e03a5
 )
 
 replace (
@@ -43,4 +43,5 @@ replace (
 	k8s.io/apimachinery => k8s.io/apimachinery v0.18.8
 	k8s.io/client-go => k8s.io/client-go v0.18.8
 	k8s.io/code-generator => k8s.io/code-generator v0.18.8
+	knative.dev/eventing => github.com/mvinkler/knative-eventing v0.0.0-20210412174545-ebbcdcb52bed
 )

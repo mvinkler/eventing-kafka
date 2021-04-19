@@ -599,6 +599,8 @@ github.com/modern-go/reflect2 v1.0.1 h1:9f412s+6RmYXLWZSEzVVgPGK7C2PphHj5RJrvfx9
 github.com/modern-go/reflect2 v1.0.1/go.mod h1:bx2lNnkwVCuqBIxFjflWJWanXIb3RllmbCylyMrvgv0=
 github.com/munnerz/goautoneg v0.0.0-20120707110453-a547fc61f48d/go.mod h1:+n7T8mK8HuQTcFwEeznm/DIxMOiR9yIdICNftLE1DvQ=
 github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822/go.mod h1:+n7T8mK8HuQTcFwEeznm/DIxMOiR9yIdICNftLE1DvQ=
+github.com/mvinkler/knative-eventing v0.0.0-20210412174545-ebbcdcb52bed h1:RPCMjjwKYaCfPE9WZIbonVMDoMAG6tF0F5HPg9SKC4A=
+github.com/mvinkler/knative-eventing v0.0.0-20210412174545-ebbcdcb52bed/go.mod h1:xQVn0vU/WIh4FoE3Em4fF/LVGgY2JpgAPdzVe+3nLLE=
 github.com/mwitkow/go-conntrack v0.0.0-20161129095857-cc309e4a2223/go.mod h1:qRWi+5nqEBWmkhHvq77mSJWrCKwh8bxhgT7d/eI7P4U=
 github.com/mwitkow/go-conntrack v0.0.0-20190716064945-2f068394615f/go.mod h1:qRWi+5nqEBWmkhHvq77mSJWrCKwh8bxhgT7d/eI7P4U=
 github.com/mxk/go-flowrate v0.0.0-20140419014527-cca7078d478f/go.mod h1:ZdcZmHo+o7JKHSa8/e818NopupXU1YMK5fe1lsApnBw=
@@ -1306,6 +1308,8 @@ knative.dev/hack v0.0.0-20201103151104-3d5abc3a0075 h1:YAgWplKIy4O5e3F5vUUECmXAA
 knative.dev/hack v0.0.0-20201103151104-3d5abc3a0075/go.mod h1:PHt8x8yX5Z9pPquBEfIj0X66f8iWkWfR0S/sarACJrI=
 knative.dev/pkg v0.0.0-20201103163404-5514ab0c1fdf h1:QwULgRwcv6R3Ya1GZlf/E1atcaGUNw4DKjxSQUfcR6U=
 knative.dev/pkg v0.0.0-20201103163404-5514ab0c1fdf/go.mod h1:cuKOgUvJvnWHIps/apCXX8wZuMlT0dyMZLqRQfsENbQ=
+knative.dev/pkg v0.0.0-20201215150143-89a9cc3e03a5 h1:VRRec+QKr9MuDktQGHD1UDFNpDNIXYu0NuhoGeQsHiE=
+knative.dev/pkg v0.0.0-20201215150143-89a9cc3e03a5/go.mod h1:cuKOgUvJvnWHIps/apCXX8wZuMlT0dyMZLqRQfsENbQ=
 pgregory.net/rapid v0.3.3/go.mod h1:UYpPVyjFHzYBGHIxLFoupi8vwk6rXNzRY9OMvVxFIOU=
 rsc.io/binaryregexp v0.2.0/go.mod h1:qTv7/COck+e2FymRvadv62gMdZztPaShugOCi3I+8D8=
 rsc.io/quote/v3 v3.1.0/go.mod h1:yEA65RcK8LyAZtP9Kv3t0HmxON59tX3rD+tICJqUlj0=
